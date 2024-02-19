@@ -1,2 +1,3 @@
 # SecondProject
-Learning Git
+Learning Git - Hello World
+
